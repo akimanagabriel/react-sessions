@@ -19,7 +19,7 @@ function Users() {
     },
   ];
   return (
-    <div className="p-20">
+    <div className="md:p-20 p-5">
       <h1 className="text-2xl font-bold text-indigo-600 uppercase">
         Users list
       </h1>

@@ -6,5 +6,5 @@ table,
 tr,
 th,
 td {
-  @apply border border-slate-400 px-6 py-2 text-nowrap text-left;
+  @apply border border-slate-400 md:px-6 md:py-2 px-4 py-2 text-nowrap text-left;
 }
