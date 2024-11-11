@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+table,
+tr,
+th,
+td {
+  @apply border border-slate-400 px-6 py-2 text-nowrap text-left;
+}
